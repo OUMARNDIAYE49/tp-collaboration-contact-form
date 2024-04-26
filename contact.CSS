@@ -1,0 +1,18 @@
+.A{
+    background-color:rgb(159, 188, 143);
+
+}
+.contener{
+    max-width: 100%;
+    margin-top: 20px;
+    border: 3px solid blue;
+    padding: 25px;
+    width: 250px;
+    margin-left: 200px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+
+}
+#o{
+border: 1px;
+}
